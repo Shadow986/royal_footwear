@@ -854,7 +854,7 @@ nav#filter a.current {
 	font-size: 1.4em;
 }
 .portfolio-item .portfolio-desc .folio-info p {
-	color: #ffffff;
+	color: #9400D3; /* Neon purple */
 	font-size: 12px;
 }
 .newsBox {
@@ -890,7 +890,7 @@ nav#filter a.current {
 }
 .da-dots span.da-dots-current:after {
 	content: '';
-	background: #ae130c;
+	background: #0000FF; /* Neon blue */
 }
 .team-member {
 	padding-top: 5px;
@@ -920,10 +920,10 @@ nav#filter a.current {
 	display: inline-block;
 	text-align: center;
 	font-size: 18px;
-	color: #949494;
+	color: #9400D3; /* Neon purple */
 }
 .team-socials i:hover {
-	color: #ae130c;
+	color: #0000FF; /* Neon blue */
 }
 .team-member h4 {
 	font-size: 19px;
@@ -942,7 +942,7 @@ nav#filter a.current {
 	min-height: 100px;
 	padding-top: 0px;
 	background: #181015 url(../images/bg_header.jpg) 0px -761px no-repeat;
-	/*background: #ae130c;*/
+	/*background: #0000FF;*/ /* Neon blue */
 	background-size: cover;
 	text-align: left;
 	margin-bottom: 25px;
@@ -976,10 +976,11 @@ nav#filter a.current {
 	font-size: 24px;
 	line-height: 24px;
 	color: #fff;
-	background: #4E4E4E;
+	background: #9400D3; /* Neon purple */
 	margin-bottom: 30px;
 	border-top: 0;
 }
+
 .flat .plan li > strong {
 	color: #6B6B6B;
 	font-weight: normal;
