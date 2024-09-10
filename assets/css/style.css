@@ -1081,3 +1081,9 @@ height:380px !important;
 	font-weight: 400;
 }
 }
+
+/* CSS to change the logo size */
+.logo {
+    width: 150px; /* Adjust the width as needed */
+    height: auto; /* Maintains the aspect ratio */
+}
